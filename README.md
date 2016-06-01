@@ -1,6 +1,5 @@
 # Mark Jensen
-## Description of Team Member
-### (using markdown format)
+## Team Member Description
 
 **Mark Jensen** lives and works in *Los Angeles, CA.*
 
